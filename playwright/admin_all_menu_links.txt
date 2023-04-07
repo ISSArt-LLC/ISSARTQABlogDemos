@@ -1,0 +1,20 @@
+My View
+http://localhost/mantisbt/my_view_page.php
+
+View Issues
+http://localhost/mantisbt/view_all_bug_page.php
+
+Report Issues
+http://localhost/mantisbt/bug_report_page.php
+
+Changelog
+http://localhost/mantisbt/changelog_page.php
+
+Roadmap
+http://localhost/mantisbt/roadmap_page.php
+
+Summary
+http://localhost/mantisbt/summary_page.php
+
+Manage
+http://localhost/mantisbt/manage_overview_page.php
